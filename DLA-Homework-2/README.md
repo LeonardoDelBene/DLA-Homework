@@ -1,4 +1,4 @@
-Questo repository fa riferimento all’Homework 2. All'interno della cartella .venv è possibile trovare il codice sviluppato per risolvere i tre esercizi assegnati.
+Questa cartella fa riferimento all’Homework 2. All'interno è possibile trovare il codice sviluppato per risolvere i tre esercizi assegnati.
 
 Per il monitoraggio degli addestramenti è stato utilizzato Weights & Biases (W&B). 
 Di seguito vengono riportati i link ai progetti su W&B, che consentono di verificare nel dettaglio l’andamento degli esperimenti. 
