@@ -1,4 +1,4 @@
-Questo repository contiene il materiale relativo all’Homework 3. Al suo interno è presente un notebook in cui sono stati risolti tutti gli esercizi assegnati durante il laboratorio.
+Questa cartella contiene il materiale relativo all’Homework 3. Al suo interno è presente un notebook in cui sono stati risolti tutti gli esercizi assegnati durante il laboratorio.
 
 Per l’ultimo esercizio, è stata svolta la versione 3.2, utilizzando Weights & Biases per il monitoraggio del processo di fine-tuning.
 
