@@ -1,4 +1,4 @@
-Questo cartella fa riferimento all'Homework 1. Al suo interno è disponibile il codice Python sviluppato per l'esercizio.
+Questa cartella fa riferimento all'Homework 1. Al suo interno è disponibile il codice Python sviluppato per l'esercizio.
 
 Per monitorare l'addestramento dei vari modelli, è stato utilizzato Weights & Biases (wandb), una piattaforma per il tracciamento degli esperimenti di machine learning.
 
