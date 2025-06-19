@@ -98,7 +98,7 @@ def train_validate(model, num_epochs, train_loader, val_loader, opt, criterion, 
             best_val_acc = max(val_acc, best_val_acc)
             best_val_loss = min(val_loss, best_val_loss)
             torch.save(model.state_dict(), filename)
-            print(f"🧠 Modello migliorato, salvato in: {filename}")
+            print(f"Modello migliorato, salvato in: {filename}")
             wandb.save(filename)
             if(checkpoint_filename):
                 # Salva il checkpoint
